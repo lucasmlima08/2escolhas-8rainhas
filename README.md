@@ -2,7 +2,8 @@
 
 * Um aplicativo que resolve o problema das 8 rainhas.
 Ele permite que usuário escolha duas rainhas em um tabuleiro 8x8 e mostra todas as soluções com essas duas rainhas.
-Criado como um projeto da universidade.
+Desenvolvido como uma atividade da universidade
+(Ciência da Computação - UEPB) para a disciplina de Inteligência Artificial.
 * Versão Android 4.2.2
 * Play Store: https://play.google.com/store/apps/details?id=com.uepb.ia.rainhas
 
