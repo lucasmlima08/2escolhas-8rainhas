@@ -18,7 +18,7 @@ public class Tabuleiro {
         this.coluna = coluna.clone();
     }
 
-    /* Polimorfismo. */
+    /* Encapsulamento. */
     public void setFilhos(Tabuleiro filho){ this.filhos.add(filho); };
     public Tabuleiro getPai(){ return this.pai; }
     public int getNivel(){ return this.nivel; }
