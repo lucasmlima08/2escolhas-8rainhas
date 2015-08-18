@@ -5,6 +5,7 @@ Ele permite que usuário escolha duas rainhas em um tabuleiro 8x8 e mostra todas
 Desenvolvido como uma atividade da universidade
 (Ciência da Computação - UEPB) para a disciplina de Inteligência Artificial.
 * Versão Android 4.2.2
+* Play Store: https://play.google.com/store/apps/details?id=com.uepb.ia.rainhas
 
 # Imagens
 
